@@ -1,0 +1,11 @@
+{
+  "description": "Cloudflare Workers proxy endpoint for GPT connector.",
+  "subdomain": "pokegpt-jp",
+  "owner": {
+    "username": "GoldPointer",
+    "email": "goldpointer@gmail.com"
+  },
+  "record": {
+    "CNAME": "crimson-voice-138e.goldpointer.workers.dev"
+  }
+}
